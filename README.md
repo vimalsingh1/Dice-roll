@@ -16,6 +16,7 @@ Make sure Python 3 is installed.
 Clone this repository or download the script file.
 
 Run the script in your terminal:
+
 ![image](https://github.com/user-attachments/assets/84ff1675-983f-4657-9584-44f4c7e144db)
 
 
